@@ -1,5 +1,5 @@
 SpringWebMVC
-=========
+=============
 An example of a basic Spring MVC application [not using SpringBoot]
 
 System Requirements
