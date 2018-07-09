@@ -100,6 +100,7 @@
 			<configuration>
 				<url>http://localhost:8080/manager/text</url>
 				<server>TomcatServer</server>
+				<update>true</update>
 				<path>/springwebmvc</path>
 			</configuration>
 		</plugin>		
